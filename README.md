@@ -145,9 +145,10 @@ I separated the analysis between attributes categories. The analysis were suppor
 
   Another very common concern is which type of project should be used for offsetting.
 
-Unless a company conducts activities in a specific sector and for that reason should aim for specific types of credits, it's up to the companies which credits they will use for CO2 offsetting.
+  Unless a company conducts activities in a specific sector and for that reason should aim for specific types of credits, it's up to the companies which credits they will use for CO2 offsetting.
 
-Renewable Energy credits are typically the least expensive, as they have low additionality. Agriculture, Forestry, and Other Land use (AFOLU) credits are common but can be more expensive due to their various specificities and co-benefits.
+  Renewable Energy credits are typically the least expensive, as they have low additionality. Agriculture, Forestry, and Other Land use (AFOLU) credits are common but can be more expensive due to their various 
+  specificities and co-benefits.
 
 ![alt text](images/project_type_treemap.png)
 
@@ -175,9 +176,9 @@ Renewable Energy credits are typically the least expensive, as they have low add
 
   Methodology is a way to examine a project's technical characteristics more in-depth. To do a proper analysis on this subject, we would need to understand many technical terms that we haven't seen so far. For this reason, I'll do a high-level analysis here, just so you can familiarize yourself with them.
 
-It is important to discuss the topic since it can help distinguish projects of the same type without diving too deep into the documentation.
+  It is important to discuss the topic since it can help distinguish projects of the same type without diving too deep into the documentation.
 
-If you're talking with companies with deep knowledge of carbon credits, they often mention a certain methodology to describe the project they want.
+  If you're talking with companies with deep knowledge of carbon credits, they often mention a certain methodology to describe the project they want.
 
 ![alt text](images/methodology_treemap.png)
 
@@ -199,7 +200,7 @@ If you're talking with companies with deep knowledge of carbon credits, they oft
 
   ![alt text](images/pareto_companies_vs_retirement.png)
 
-  **Insights**:
+**Insights**:
 
 According to InfluenceMap, an important non-profit organization responsible for CO2 emissions research, between 2016 and 2022, only 57 companies were responsible for 80% of all CO2 emissions in the world, which corroborates with our conclusion here.
 
