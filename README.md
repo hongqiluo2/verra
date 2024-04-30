@@ -14,7 +14,7 @@ Their goal is to generate income through the selling of carbon credits.
 
 ### Project Objective
 
-This project focuses on the analysis of carbon credit retirements and availability using data sourced from the Verra registry. Through exploratory data analysis (EDA) This project focuses on analyzing carbon credit retirements and availability using data sourced from the Verra registry. Using exploratory data analysis (EDA) techniques, various criteria, such as vintage, project type, country, and retirement date, are examined to gain insights into carbon credit markets.
+This project focuses on the analysis of carbon credit retirements and availability using data sourced from the Verra registry. Using exploratory data analysis (EDA) techniques, various criteria, such as vintage, project type, country, and retirement date, are examined to gain insights into carbon credit markets.
 
 In the dynamic landscape of carbon credit markets, navigating unfamiliar concepts can take time for companies seeking to offset their emissions. This project aims to demystify the market by providing comprehensive insights into aspects such as vintage, project types, additional certifications, and more. By offering valuable information and analysis, this project serves as a tool for companies better to understand the dynamics of the carbon credit market. Additionally, trading companies can leverage these insights to gain a competitive edge and make informed decisions in their trading activities.
 
@@ -299,6 +299,7 @@ Independent of this, SDGs improve a project's quality, but as with many other pi
         Some of the most important characteristics weren't shown here because they are outside Verra's registry database but inside the project description document: Additionality and Permanence.
                 
             
+
         Additionality represents the importance of developing a project in that area or process to reduce or sequester CO2 emissions. In other words, would that area suffer significant environmental damage without the project? When discussing renewables, how much pollution would be caused by using old energy sources?
 
         Permanence represents how long those reductions will last. All projects have a lifetime, usually a couple of decades. Now imagine if a project is active for 20 years, and after those 20 years, the land owner is allowed to deforest the entire forest. That will impact how that project is seen.
